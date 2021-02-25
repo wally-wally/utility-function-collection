@@ -1,0 +1,32 @@
+{
+  "name": "utility-function-collection",
+  "version": "0.0.1",
+  "description": "Utility function collection for Javascript, Typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wally-wally/utility-function-collection.git"
+  },
+  "keywords": [
+    "utils",
+    "utils-collection",
+    "utility",
+    "function",
+    "utility function",
+    "utility-function-collection",
+    "javascript",
+    "typescript"
+  ],
+  "author": "wally-wally",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wally-wally/utility-function-collection/issues"
+  },
+  "homepage": "https://github.com/wally-wally/utility-function-collection#readme",
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  }
+}
